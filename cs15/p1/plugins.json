@@ -17,7 +17,7 @@
         "version": 5,
         "internalName": "Crunchyroll",
         "description": "The Crunchyroll provider allows you to watch all the shows that are on Crunchyroll.",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/Crunchyroll.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/Crunchyroll.cs3",
         "name": "Crunchyroll"
     },
     {
@@ -36,7 +36,7 @@
         ],
         "version": 1,
         "internalName": "DubbedAnimeProvider",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/DubbedAnimeProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/DubbedAnimeProvider.cs3",
         "name": "DubbedAnimeProvider"
     },
     {
@@ -54,7 +54,7 @@
         ],
         "version": 1,
         "internalName": "EjaTv",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/EjaTv.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/EjaTv.cs3",
         "name": "EjaTv"
     },
     {
@@ -74,7 +74,7 @@
         ],
         "version": 1,
         "internalName": "GogoanimeProvider",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/GogoanimeProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/GogoanimeProvider.cs3",
         "name": "GogoanimeProvider"
     },
     {
@@ -92,7 +92,7 @@
         ],
         "version": 1,
         "internalName": "KimCartoonProvider",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/KimCartoonProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/KimCartoonProvider.cs3",
         "name": "KimCartoonProvider"
     },
     {
@@ -114,7 +114,7 @@
         "version": 9,
         "internalName": "SflixProvider",
         "description": "Also includes Dopebox, Solarmovie, Zoro, HDToday and 2embed",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/SflixProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/SflixProvider.cs3",
         "name": "SflixProvider"
     },
     {
@@ -135,7 +135,7 @@
         ],
         "version": 4,
         "internalName": "SuperStream",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/SuperStream.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/SuperStream.cs3",
         "name": "SuperStream"
     },
     {
@@ -156,7 +156,7 @@
         ],
         "version": 1,
         "internalName": "WatchCartoonOnlineProvider",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/WatchCartoonOnlineProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/WatchCartoonOnlineProvider.cs3",
         "name": "WatchCartoonOnlineProvider"
     },
 	    {
@@ -176,7 +176,7 @@
         "version": 1,
         "internalName": "WiflixProvider",
         "description": "WIFLIX, le site gr\u00e2ce auquel vous allez pouvoir regarder vos films et s\u00e9ries pr\u00e9f\u00e9r\u00e9es",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/WiflixProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/WiflixProvider.cs3",
         "name": "WiflixProvider"
     },
 	{
@@ -196,7 +196,7 @@
         "version": 1,
         "internalName": "VostfreeProvider",
         "description": " Ce site est certainement l\u2019un des meilleurs sites permettant de regarder des animes en ligne et gratuitement. Il vous propose la version \u00ab VF \u00bb version fran\u00e7aise et la \u00ab VOSTFR \u00bb version originale Sous-titr\u00e9e en Fran\u00e7ais.",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/VostfreeProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/VostfreeProvider.cs3",
         "name": "VostfreeProvider"
     },
 	{
@@ -216,7 +216,7 @@
         "version": 1,
         "internalName": "NekosamaProvider",
         "description": " Ce site fait son entr\u00e9e dans la cat\u00e9gorie des meilleurs sites animes Fran\u00e7ais. Il est tr\u00e8s fiable car quasiment tous ses liens vid\u00e9os marchent. Il propose des animes en \u00ab VF \u00bb version fran\u00e7aise et en \u00ab VOSTFR \u00bb version originale Sous-titr\u00e9e en Fran\u00e7ais.",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/NekosamaProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/NekosamaProvider.cs3",
         "name": "NekosamaProvider"
     },
 	{
@@ -234,7 +234,7 @@
         ],
         "version": 2,
         "internalName": "AltadefinizioneProvider",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AltadefinizioneProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/AltadefinizioneProvider.cs3",
         "name": "AltadefinizioneProvider"
     },
 	{
@@ -252,7 +252,7 @@
         ],
         "version": 1,
         "internalName": "EurostreamingProvider",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/EurostreamingProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/EurostreamingProvider.cs3",
         "name": "EurostreamingProvider"
     },
 	{
@@ -272,7 +272,7 @@
         ],
         "version": 3,
         "internalName": "AniPlayProvider",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AniPlayProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/AniPlayProvider.cs3",
         "name": "AniPlayProvider"
     },
 	{
@@ -292,7 +292,7 @@
         ],
         "version": 2,
         "internalName": "AnimeWorldProvider",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AnimeWorldProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/AnimeWorldProvider.cs3",
         "name": "AnimeWorldProvider"
     },
 	{
@@ -311,7 +311,7 @@
         ],
         "version": 2,
         "internalName": "AnimeSaturnProvider",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AnimeSaturnProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/AnimeSaturnProvider.cs3",
         "name": "AnimeSaturnProvider"
     },
 	{
@@ -330,7 +330,7 @@
         ],
         "version": 2,
         "internalName": "ZaluknijProvider",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/ZaluknijProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/ZaluknijProvider.cs3",
         "name": "ZaluknijProvider"
     },
 	{
@@ -349,7 +349,7 @@
         ],
         "version": 1,
         "internalName": "EntrepeliculasyseriesProvider",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/EntrepeliculasyseriesProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/EntrepeliculasyseriesProvider.cs3",
         "name": "EntrepeliculasyseriesProvider"
     },
 	{
@@ -369,7 +369,7 @@
         ],
         "version": 1,
         "internalName": "CuevanaProvider",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/CuevanaProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/CuevanaProvider.cs3",
         "name": "CuevanaProvider"
     },
 	{
@@ -388,7 +388,7 @@
         ],
         "version": 1,
         "internalName": "SeriesflixProvider",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/SeriesflixProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/SeriesflixProvider.cs3",
         "name": "SeriesflixProvider"
     },
 	{
@@ -407,7 +407,7 @@
         ],
         "version": 1,
         "internalName": "MonoschinosProvider",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/MonoschinosProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/MonoschinosProvider.cs3",
         "name": "MonoschinosProvider"
     },
 	{
@@ -427,7 +427,7 @@
         ],
         "version": 1,
         "internalName": "AnimefenixProvider",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AnimefenixProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/AnimefenixProvider.cs3",
         "name": "AnimefenixProvider"
     },
 	{
@@ -447,7 +447,7 @@
         ],
         "version": 1,
         "internalName": "AnimeflvIOProvider",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AnimeflvIOProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/AnimeflvIOProvider.cs3",
         "name": "AnimeflvIOProvider"
     },
     {
@@ -467,7 +467,7 @@
         ],
         "version": 1,
         "internalName": "AnimeflvnetProvider",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AnimeflvnetProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/AnimeflvnetProvider.cs3",
         "name": "AnimeflvnetProvider"
     },
 	{
@@ -489,7 +489,7 @@
         "version": 1,
         "internalName": "AkwamProvider",
         "description": "",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AkwamProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/AkwamProvider.cs3",
         "name": "AkwamProvider"
     },
 	{
@@ -511,7 +511,7 @@
         "version": 4,
         "internalName": "FaselHDProvider",
         "description": "",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/FaselHDProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/FaselHDProvider.cs3",
         "name": "FaselHDProvider"
     },
 	{
@@ -532,7 +532,7 @@
         "version": 1,
         "internalName": "MyCimaProvider",
         "description": "",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/MyCimaProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/MyCimaProvider.cs3",
         "name": "MyCimaProvider"
     },
 	{
@@ -551,7 +551,7 @@
         "version": 1,
         "internalName": "FushaarProvider",
         "description": "",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/FushaarProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/FushaarProvider.cs3",
         "name": "FushaarProvider"
     },
 	{
@@ -571,7 +571,7 @@
         "version": 1,
         "internalName": "CimaNowProvider",
         "description": "",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/CimaNowProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/CimaNowProvider.cs3",
         "name": "CimaNowProvider"
     },
 	{
@@ -592,7 +592,7 @@
         "version": 1,
         "internalName": "AnimeBlkomProvider",
         "description": "",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AnimeBlkomProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/AnimeBlkomProvider.cs3",
         "name": "AnimeBlkomProvider"
     },
 	{
@@ -613,7 +613,7 @@
         "version": 2,
         "internalName": "GateAnimeProvider",
         "description": "",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/GateAnimeProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/GateAnimeProvider.cs3",
         "name": "GateAnimeProvider"
     },
 	{
@@ -632,7 +632,7 @@
         "version": 1,
         "internalName": "AnimeiatProvider",
         "description": "",
-        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AnimeiatProvider.cs3",
+        "url": "https://github.com/drumstr/drumstarepo/raw/main/cs15/p1/AnimeiatProvider.cs3",
         "name": "AnimeiatProvider"
     }
 ]
