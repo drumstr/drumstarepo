@@ -1,0 +1,8 @@
+{
+    "name": "All providers repository",
+    "description": "All Providers Plugin Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/drumstr/drumstarepo/main/plugins.json"
+    ]
+  }

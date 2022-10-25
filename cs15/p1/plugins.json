@@ -1,0 +1,638 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=crunchyroll.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "fileSize": 30114,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Sir Aguacata (KillerDogeEmpire)"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "Crunchyroll",
+        "description": "The Crunchyroll provider allows you to watch all the shows that are on Crunchyroll.",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/Crunchyroll.cs3",
+        "name": "Crunchyroll"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bestdubbedanime.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "fileSize": 16974,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "DubbedAnimeProvider",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/DubbedAnimeProvider.cs3",
+        "name": "DubbedAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=eja.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "fileSize": 10067,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "EjaTv",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/EjaTv.cs3",
+        "name": "EjaTv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=gogoanime.lu&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "fileSize": 24848,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "GogoanimeProvider",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/GogoanimeProvider.cs3",
+        "name": "GogoanimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kimcartoon.li&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "fileSize": 11496,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 1,
+        "internalName": "KimCartoonProvider",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/KimCartoonProvider.cs3",
+        "name": "KimCartoonProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.2embed.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "fileSize": 61235,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 9,
+        "internalName": "SflixProvider",
+        "description": "Also includes Dopebox, Solarmovie, Zoro, HDToday and 2embed",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/SflixProvider.cs3",
+        "name": "SflixProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/master/SuperStream/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "fileSize": 55043,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movie",
+            "AnimeMovie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "SuperStream",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/SuperStream.cs3",
+        "name": "SuperStream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcostream.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "fileSize": 12906,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Cartoon",
+            "Anime",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "WatchCartoonOnlineProvider",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/WatchCartoonOnlineProvider.cs3",
+        "name": "WatchCartoonOnlineProvider"
+    },
+	    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=wiflix.zone&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 21959,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Eddy"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "WiflixProvider",
+        "description": "WIFLIX, le site gr\u00e2ce auquel vous allez pouvoir regarder vos films et s\u00e9ries pr\u00e9f\u00e9r\u00e9es",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/WiflixProvider.cs3",
+        "name": "WiflixProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=vostfree.cx&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 20180,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Eddy"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "VostfreeProvider",
+        "description": " Ce site est certainement l\u2019un des meilleurs sites permettant de regarder des animes en ligne et gratuitement. Il vous propose la version \u00ab VF \u00bb version fran\u00e7aise et la \u00ab VOSTFR \u00bb version originale Sous-titr\u00e9e en Fran\u00e7ais.",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/VostfreeProvider.cs3",
+        "name": "VostfreeProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=neko-sama.fr&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 25234,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "Eddy"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "NekosamaProvider",
+        "description": " Ce site fait son entr\u00e9e dans la cat\u00e9gorie des meilleurs sites animes Fran\u00e7ais. Il est tr\u00e8s fiable car quasiment tous ses liens vid\u00e9os marchent. Il propose des animes en \u00ab VF \u00bb version fran\u00e7aise et en \u00ab VOSTFR \u00bb version originale Sous-titr\u00e9e en Fran\u00e7ais.",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/NekosamaProvider.cs3",
+        "name": "NekosamaProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=altadefinizione.tienda&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 11906,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            "Adippe"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "AltadefinizioneProvider",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AltadefinizioneProvider.cs3",
+        "name": "AltadefinizioneProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=eurostreaming.social&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 10805,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            "Adippe"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "EurostreamingProvider",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/EurostreamingProvider.cs3",
+        "name": "EurostreamingProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=aniplay.it&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 20863,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "AniPlayProvider",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AniPlayProvider.cs3",
+        "name": "AniPlayProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.animeworld.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 20867,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "AnimeWorldProvider",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AnimeWorldProvider.cs3",
+        "name": "AnimeWorldProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.animesaturn.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 15245,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 2,
+        "internalName": "AnimeSaturnProvider",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AnimeSaturnProvider.cs3",
+        "name": "AnimeSaturnProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=zaluknij.xyz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 12231,
+        "status": 1,
+        "language": "pl",
+        "authors": [
+            "Cloudburst"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "ZaluknijProvider",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/ZaluknijProvider.cs3",
+        "name": "ZaluknijProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=entrepeliculasyseries.nu&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 12248,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "EntrepeliculasyseriesProvider",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/EntrepeliculasyseriesProvider.cs3",
+        "name": "EntrepeliculasyseriesProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cuevana3.me&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 18865,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "CuevanaProvider",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/CuevanaProvider.cs3",
+        "name": "CuevanaProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=seriesflix.video&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 14714,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "SeriesflixProvider",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/SeriesflixProvider.cs3",
+        "name": "SeriesflixProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=monoschinos2.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 16762,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "MonoschinosProvider",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/MonoschinosProvider.cs3",
+        "name": "MonoschinosProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animefenix.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 17635,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AnimefenixProvider",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AnimefenixProvider.cs3",
+        "name": "AnimefenixProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeflv.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 16986,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimeflvIOProvider",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AnimeflvIOProvider.cs3",
+        "name": "AnimeflvIOProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www3.animeflv.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 16006,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimeflvnetProvider",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AnimeflvnetProvider.cs3",
+        "name": "AnimeflvnetProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=akwam.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 13780,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 1,
+        "internalName": "AkwamProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AkwamProvider.cs3",
+        "name": "AkwamProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 14250,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 4,
+        "internalName": "FaselHDProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/FaselHDProvider.cs3",
+        "name": "FaselHDProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=mycima.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 18741,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "MyCimaProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/MyCimaProvider.cs3",
+        "name": "MyCimaProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fushaar.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 11005,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Spoonge"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FushaarProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/FushaarProvider.cs3",
+        "name": "FushaarProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 14704,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "CimaNowProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/CimaNowProvider.cs3",
+        "name": "CimaNowProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeblkom.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 10923,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimeBlkomProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AnimeBlkomProvider.cs3",
+        "name": "AnimeBlkomProvider"
+    },
+	{
+        "iconUrl": "https://b.gateanime.cam/wp-content/uploads/2020/12/cropped-Favicon-192x192.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 11646,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "Cartoon"
+        ],
+        "version": 2,
+        "internalName": "GateAnimeProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/GateAnimeProvider.cs3",
+        "name": "GateAnimeProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 20668,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AnimeiatProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/drumstr/drumstarepo/main/AnimeiatProvider.cs3",
+        "name": "AnimeiatProvider"
+    }
+]
